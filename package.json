@@ -1,0 +1,13 @@
+{
+	"name": "HnUserNotes",
+	"version": "0.1",
+	"description": "Keep private notes on HN users",
+	"repository": "git@github.com:sharat87/hn-user-notes.git",
+	"author": "Shrikant Sharat Kandula <shrikantsharat.k@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"devDependencies": {
+		"esm": "^3.2.25",
+		"parcel-bundler": "^1.12.5"
+	}
+}
