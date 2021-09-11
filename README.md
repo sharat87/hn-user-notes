@@ -2,6 +2,8 @@
 
 HnUserNotes is a small browser extension that allows keeping small text notes on HN users. It can help remember who you've met on HN before, or who's the founder of a startup etc., and can give some valuable and specific context to their comment.
 
+![Screenshot](https://github.com/sharat87/hn-user-notes/raw/master/media/shot-1-chrome.png)
+
 [**Get HnUserNotes for Firefox**](https://addons.mozilla.org/en-US/firefox/addon/hn-user-notes/).
 
 [**Get HnUserNotes for Chrome**](https://chrome.google.com/webstore/detail/hn-user-notes/honoamahndiehddgbkdbdnljdaipbeff).
