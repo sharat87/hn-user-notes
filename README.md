@@ -2,11 +2,9 @@
 
 HnUserNotes is a small browser extension that allows keeping small text notes on HN users. It can help remember who you've met on HN before, or who's the founder of a startup etc., and can give some valuable and specific context to their comment.
 
+Get it for [**Firefox**](https://addons.mozilla.org/en-US/firefox/addon/hnusernotes/) or [**Chrome**](https://chrome.google.com/webstore/detail/hnusernotes/khjlmmahlaebffgflancckkaofmodckk).
+
 ![Screenshot](https://github.com/sharat87/hn-user-notes/raw/master/media/shot-1-chrome.png)
-
-[**Get HnUserNotes for Firefox**](https://addons.mozilla.org/en-US/firefox/addon/hn-user-notes/).
-
-[**Get HnUserNotes for Chrome**](https://chrome.google.com/webstore/detail/hn-user-notes/honoamahndiehddgbkdbdnljdaipbeff).
 
 ## Building
 
@@ -32,11 +30,15 @@ The chrome extension should now be located at `dist/chrome`, and zipped up at `d
 
 ## Support & Contributing
 
-If you found a bug, or found a problem using this extension, please feel free to open an issue. My response _will_ be a little slow, as I'm a bit tight on bandwidth right now, but I _will_ get back.
+If you found a bug, or faced a problem using this extension, please feel free to open an issue. My response _will_ be a little slow, as I'm a bit tight on bandwidth right now, but I _will_ get back.
 
 I developed this in my spare time (weekends), because I wanted it. It has just enough features, that I can ship and call it a day. I don't intend to make it a big, powerful, featureful thing, so, unless your contribution is a bug-fix, I can't promise it'll be merged.
 
 If you want to show your interest and support for this project, you may want to [buy me a coffee](https://www.buymeacoffee.com/sharat87). Thank you very much!
+
+## Plug
+
+If you're into API development or API testing in general, you should check [Prestige](https://prestigemad.com) out. It is an open-source text-based API client, like an interface-less Postman. Source code at [sharat87/prestige](https://github.com/sharat87/prestige). Thanks :pray:.
 
 ## License
 
